@@ -15,7 +15,7 @@
         post: {
           loadmore: function () {
             this.loadmore = {
-              buttonClass: 'loadmore-button111',
+              buttonClass: 'loadmore-button11122',
               buttonLabel: 'Load more',
               buttonWrapper: '.loadmore',
               initial: 2,
